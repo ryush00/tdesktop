@@ -81,45 +81,45 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_status_lastseen_yesterday" = "last seen yesterday at {time}";
 "lng_status_lastseen_date" = "last seen {date}";
 "lng_status_lastseen_date_time" = "last seen {date} at {time}";
-"lng_status_online" = "online";
+"lng_status_online" = "접속중";
 "lng_status_connecting" = "connecting..";
 
 "lng_chat_status_unaccessible" = "group is unaccessible";
 "lng_chat_status_members" = "{count:no members|# member|# members}";
 "lng_chat_status_members_online" = "{count:_not_used_|# member|# members}, {count_online:_not_used_|# online|# online}";
 
-"lng_server_error" = "Internal server error.";
+"lng_server_error" = "내부 서버 오류.";
 "lng_flood_error" = "Too much tries. Please try again later.";
-"lng_deleted" = "Unknown";
+"lng_deleted" = "알 수 없음";
 
 "lng_intro" = "Welcome to the official [a href=\"https://telegram.org/\"]Telegram[/a] desktop app.\nIt's [b]fast[/b] and [b]secure[/b].";
 "lng_start_msgs" = "START MESSAGING";
 
-"lng_intro_next" = "NEXT";
-"lng_intro_finish" = "SIGN UP";
+"lng_intro_next" = "다음";
+"lng_intro_finish" = "가입";
 
-"lng_phone_ph" = "Your phone number";
+"lng_phone_ph" = "휴대전화 번호";
 "lng_phone_title" = "Your Phone";
 "lng_phone_desc" = "Please confirm your country code and\nenter your phone number.";
 "lng_phone_notreg" = "Note: if you don't have a Telegram account yet,\nplease [b]sign up[/b] with your [a href=\"https://telegram.org/\"]iOS / Android[/a] or {signup_start}here »{signup_end}";
-"lng_country_code" = "Country Code";
-"lng_bad_country_code" = "Invalid Country Code";
-"lng_country_ph" = "Search";
-"lng_country_done" = "Done";
-"lng_country_none" = "Country not found";
-"lng_country_select" = "Select Country";
+"lng_country_code" = "지역 코드";
+"lng_bad_country_code" = "잘못된 지역 코드";
+"lng_country_ph" = "검색";
+"lng_country_done" = "완료";
+"lng_country_none" = "지역을 찾을 수 없음";
+"lng_country_select" = "지역 선택";
 
 "lng_code_ph" = "Your code";
 "lng_code_desc" = "We have sent you a message with activation\ncode to your phone. Please enter it below.";
-"lng_code_call" = "Telegram will dial your number in {minutes}:{seconds}";
+"lng_code_call" = "텔레그램이 {minutes}분 {seconds}초후 전화를 겁니다.";
 "lng_code_calling" = "Requesting a call from Telegram..";
 "lng_code_called" = "Telegram dialed your number";
 
-"lng_bad_phone" = "Invalid phone number. Please try again.";
-"lng_bad_phone_noreg" = "Phone number not registered.";
+"lng_bad_phone" = "잘못된 휴대전화 번호입니다. 다시 시도하세요.";
+"lng_bad_phone_noreg" = "휴대전화 번호가 등록되어 있지 않습니다.";
 "lng_bad_code" = "You have entered an invalid code. Please try again.";
 "lng_bad_name" = "Please enter your first and last name.";
-"lng_bad_photo" = "Bad image selected.";
+"lng_bad_photo" = "잘못된 이미지가 선택되어 있습니다.";
 
 "lng_signup_title" = "Information and photo";
 "lng_signup_desc" = "Please enter your name and\nupload a photo.";
@@ -127,29 +127,29 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_signup_firstname" = "First Name";
 "lng_signup_lastname" = "Last Name";
 
-"lng_dlg_filter" = "Search";
-"lng_dlg_new_group_name" = "Group name";
-"lng_dlg_create_group" = "Create";
-"lng_no_contacts" = "You have no contacts";
-"lng_contacts_loading" = "Loading..";
-"lng_contacts_not_found" = "No contacts found";
+"lng_dlg_filter" = "검색";
+"lng_dlg_new_group_name" = "그룹 이름";
+"lng_dlg_create_group" = "만들기";
+"lng_no_contacts" = "연락처를 가지고 있지 않습니다";
+"lng_contacts_loading" = "로드중..";
+"lng_contacts_not_found" = "연락처를 찾을 수 없음";
 
-"lng_settings_save" = "Save";
-"lng_settings_upload" = "Set Profile Photo";
+"lng_settings_save" = "저장";
+"lng_settings_upload" = "프로필 사진 설정";
 "lng_settings_crop_profile" = "Select square area for your profile photo";
-"lng_settings_uploading_photo" = "Uploading photo..";
+"lng_settings_uploading_photo" = "사진 업로드중..";
 
-"lng_username_title" = "Change username";
+"lng_username_title" = "이름 바꾸기";
 "lng_username_about" = "You can choose a username on Telegram.\nIf you do, other people will be able to find\nyou by this username and contact you\nwithout knowing your phone number.\n\nYou can use a-z, 0-9 and underscores.\nMinimum length is 5 characters.";
-"lng_username_invalid" = "This name is invalid.";
-"lng_username_occupied" = "This name is already occupied.";
-"lng_username_too_short" = "This name is too short.";
-"lng_username_bad_symbols" = "This name has bad symbols.";
-"lng_username_available" = "This name is available.";
+"lng_username_invalid" = "이 이름은 잘못되었습니다.";
+"lng_username_occupied" = "이 이름은 이미 사용중입니다.";
+"lng_username_too_short" = "이 이름은 너무 짧습니다.";
+"lng_username_bad_symbols" = "이 이름은 잘못된 기호를 포함하고 있습니다.";
+"lng_username_available" = "이 이름은 사용 가능합니다.";
 "lng_username_not_found" = "User @{user} not found.";
 
-"lng_settings_section_contact_info" = "Contact info";
-"lng_settings_phone_number" = "Phone number:";
+"lng_settings_section_contact_info" = "연락처 정보";
+"lng_settings_phone_number" = "휴대전화 번호:";
 "lng_settings_username" = "Username:";
 "lng_settings_choose_username" = "choose username";
 "lng_settings_change_username" = "Change";
