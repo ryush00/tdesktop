@@ -15,60 +15,60 @@ GNU General Public License for more details.
 Full license: https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE
 Copyright (c) 2014 John Preston, https://desktop.telegram.org
 */
-"lng_language_name" = "English";
-"lng_switch_to_this" = "Switch to English";
+"lng_language_name" = "한국어";
+"lng_switch_to_this" = "한국어로 전환";
 
-"lng_menu_contacts" = "Contacts";
-"lng_menu_settings" = "Settings";
-"lng_menu_about" = "About";
-"lng_menu_update" = "Update";
-"lng_menu_restart" = "Restart";
-"lng_menu_back" = "Back";
+"lng_menu_contacts" = "연락처";
+"lng_menu_settings" = "설정";
+"lng_menu_about" = "정보";
+"lng_menu_update" = "업데이트";
+"lng_menu_restart" = "재시작";
+"lng_menu_back" = "뒤로";
 
-"lng_open_from_tray" = "Open Telegram";
-"lng_minimize_to_tray" = "Minimize to tray";
-"lng_quit_from_tray" = "Quit Telegram";
+"lng_open_from_tray" = "텔레그램 열기";
+"lng_minimize_to_tray" = "트레이로 최소화";
+"lng_quit_from_tray" = "텔레그램 닫기";
 "lng_tray_icon_text" = "Telegram is still running here,\nyou can change this from settings page.\n\nIf this icon disappears from tray menu,\nyou can drag it back here from hidden icons.";
 
-"lng_month1" = "January";
-"lng_month2" = "February";
-"lng_month3" = "March";
-"lng_month4" = "April";
-"lng_month5" = "May";
-"lng_month6" = "June";
-"lng_month7" = "July";
-"lng_month8" = "August";
-"lng_month9" = "September";
-"lng_month10" = "October";
-"lng_month11" = "November";
-"lng_month12" = "December";
+"lng_month1" = "1월";
+"lng_month2" = "2월";
+"lng_month3" = "3월";
+"lng_month4" = "4월";
+"lng_month5" = "5월";
+"lng_month6" = "6월";
+"lng_month7" = "7월";
+"lng_month8" = "8월";
+"lng_month9" = "9월";
+"lng_month10" = "10월";
+"lng_month11" = "11월";
+"lng_month12" = "12월";
 
-"lng_weekday1" = "Mon";
-"lng_weekday2" = "Tue";
-"lng_weekday3" = "Wed";
-"lng_weekday4" = "Thu";
-"lng_weekday5" = "Fri";
-"lng_weekday6" = "Sat";
-"lng_weekday7" = "Sun";
+"lng_weekday1" = "월";
+"lng_weekday2" = "화";
+"lng_weekday3" = "수";
+"lng_weekday4" = "목";
+"lng_weekday5" = "금";
+"lng_weekday6" = "토";
+"lng_weekday7" = "일";
 
-"lng_weekday1_full" = "Monday";
-"lng_weekday2_full" = "Tuesday";
-"lng_weekday3_full" = "Wednesday";
-"lng_weekday4_full" = "Thursday";
-"lng_weekday5_full" = "Friday";
-"lng_weekday6_full" = "Saturday";
-"lng_weekday7_full" = "Sunday";
+"lng_weekday1_full" = "월요일";
+"lng_weekday2_full" = "화요일";
+"lng_weekday3_full" = "수요일";
+"lng_weekday4_full" = "목요일";
+"lng_weekday5_full" = "금요일";
+"lng_weekday6_full" = "토요일";
+"lng_weekday7_full" = "일요일";
 
-"lng_month_day" = "{month} {day}";
+"lng_month_day" = "{month} {day}일";
 
-"lng_cancel" = "Cancel";
-"lng_continue" = "Continue";
-"lng_close" = "Close";
-"lng_connecting" = "Connecting..";
-"lng_reconnecting" = "Reconnect {count:now|in # s|in # s}..";
-"lng_reconnecting_try_now" = "Try now";
+"lng_cancel" = "취소";
+"lng_continue" = "계속";
+"lng_close" = "닫기";
+"lng_connecting" = "연결중..";
+"lng_reconnecting" = "다시 연결 {count:now|in # s|in # s}..";
+"lng_reconnecting_try_now" = "지금 다시 시도하기";
 
-"lng_status_service_notifications" = "service notifications";
+"lng_status_service_notifications" = "서비스 알림";
 "lng_status_offline" = "last seen a long time ago";
 "lng_status_recently" = "last seen recently";
 "lng_status_last_week" = "last seen within a week";
